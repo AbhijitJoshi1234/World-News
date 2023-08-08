@@ -1,4 +1,4 @@
-# iNotebook - Secured Notes on Cloud
+# World-News -Get news at your fingertips
 ## Description :
 - News on the go
 - Categorised on basis of various topics like Business, Entertainment, Health, Science, Sports and Technology
